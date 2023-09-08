@@ -1,0 +1,62 @@
+Transportation Management CLI Application
+Table of Contents
+
+    Introduction
+    Problem Statement
+    Solution Overview
+    Minimum Viable Product (MVP)
+    Technologies Used
+    Getting Started
+    Usage
+    Contributing
+    License
+
+Introduction
+
+The Transportation Management CLI Application is a powerful and intrusive solution designed to streamline transportation management operations. It empowers transportation service providers to efficiently manage their fleet, customers, cargo, and schedules. This application allows for the seamless handling of passenger bookings, cargo tracking, and gathering feedback from customers and drivers.
+Problem Statement
+
+In the field of transportation management, challenges include managing fleets, customers, cargo, and schedules efficiently. Existing problems include inefficient fleet management, customer and cargo management challenges, and the need for streamlined operations.
+Solution Overview
+
+Our solution addresses these challenges by developing a Command-Line Interface (CLI) application. Key features include customer information management, order history, efficient cargo management, and the ability to generate reviews from customers and drivers.
+Minimum Viable Product (MVP)
+
+Our Minimum Viable Product (MVP) includes the following key features:
+
+    Schedule Management
+    Passenger Booking and Rating
+    Vehicle Management
+    Data Persistence with SQLAlchemy
+    Relational Database Design
+    Command-Line Interface (CLI)
+    Cargo Tracking
+
+Technologies Used
+
+    Python as the core programming language
+    SQLAlchemy for database interaction
+    SQLite as the relational database system
+    Command-Line Parsing Library (e.g., argparse or click)
+
+Getting Started
+
+To get started with the Transportation Management CLI Application, follow these steps:
+
+    Clone the repository to your local machine.
+    Install the required dependencies (if any).
+    Run the application following the instructions in the Usage section below.
+
+Usage
+
+    Open your terminal or command prompt.
+    Navigate to the project directory.
+    Run the application using the command: python3 your_app.py (replace your_app.py with the actual filename).
+
+Follow the on-screen prompts to interact with the application.
+Contributing
+
+We welcome contributions from the community. If you'd like to contribute to this project, please follow our Contribution Guidelines.
+License
+
+This project is licensed under the MIT License.
